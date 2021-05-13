@@ -1,6 +1,6 @@
 
 h1{color: blue;}
-   *{border: solid;}
+   /*{border: solid;}*/
 .header{
     background-color: tomato;
     display:flex;
