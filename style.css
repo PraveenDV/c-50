@@ -1,15 +1,26 @@
 
 h1{color: blue;}
-*{border: solid;}
+   *{border: solid;}
 .header{
     background-color: tomato;
     display:flex;
-    justify-content: space-between;
+    justify-content:space-evenly;
 }
 
 .menu{
     background-color: yellow;
     display: flex;
-    justify-content:space-evenly;
+    justify-content:space-around;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.description{
+   background-color: blueviolet; 
+   display: flex;
+   justify-content: space-evenly;
 }
 
